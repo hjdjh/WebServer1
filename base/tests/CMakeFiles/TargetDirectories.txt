@@ -1,0 +1,3 @@
+/home/test/git/myHttpServer1.0/WebServer/base/tests/CMakeFiles/rebuild_cache.dir
+/home/test/git/myHttpServer1.0/WebServer/base/tests/CMakeFiles/Main.dir
+/home/test/git/myHttpServer1.0/WebServer/base/tests/CMakeFiles/edit_cache.dir
